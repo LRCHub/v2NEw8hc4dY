@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "エンヴィーベイビー x KING",
+  "base_artist": "Kanaria",
+  "createdAt": "2025-12-25T14:20:14.764041Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "エンヴィーベイビー x KING",
+      "artist": "Kanaria",
+      "has_synced": true,
+      "path": "select/01_エンヴィーベイビー_x_KING_Kanaria.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "エンヴィーベイビー",
+      "artist": "Kanaria",
+      "has_synced": true,
+      "path": "select/02_エンヴィーベイビー_Kanaria.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "エンヴィーベイビー",
+      "artist": "Kanaria",
+      "has_synced": true,
+      "path": "select/03_エンヴィーベイビー_Kanaria.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "エンヴィーベイビー",
+      "artist": "Kanaria",
+      "has_synced": true,
+      "path": "select/04_エンヴィーベイビー_Kanaria.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "エンヴィーベイビー",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": false,
+      "path": "select/05_エンヴィーベイビー_25時、ナイトコードで。.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "エンヴィーベイビー (feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&鏡音リン)",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": false,
+      "path": "select/06_エンヴィーベイビー_(feat._宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&鏡音リン)_25時、ナイトコードで。.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "エンヴィーベイビー × KING",
+      "artist": "Kanaria",
+      "has_synced": false,
+      "path": "select/07_エンヴィーベイビー_×_KING_Kanaria.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "エンヴィーベイビー",
+      "artist": "Kanaria",
+      "has_synced": false,
+      "path": "select/pl_01_エンヴィーベイビー_Kanaria.txt"
+    }
+  ]
+}
